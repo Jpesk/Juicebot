@@ -1,0 +1,13 @@
+One) Open up Node
+Two) type "cd C:\Users\jpesc\Documents\bot"
+Three) put this into chat then DELETE IT !pleaestartbotyouareourolyhopethisneedstobelongsothatpeoplecantcopypasteitandstopthebotaswellasothershitsoyeahletshopethisstillfuckingworksokayyeahokay
+Four) Profit
+
+
+
+
+On message, if message text equals "Hey bot" bot.sendMessage to channelID (is also on private chat; is provided by on message) "Hey @<" + message.author.id + ">" as message string AFAIK
+Look at github wiki
+
+
+bot.user.userid  \n
